@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project5.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  drd.lib(drd.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+  Generating code
+  Finished generating code
+drd.lib(drd.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'drd.lib(drd.obj)' or at 'C:\Users\Admin\Downloads\ofekStyle\Project5\Debug\vc120.pdb'; linking object as if no debug info
+  Project5.vcxproj -> C:\Users\Admin\Downloads\ofekStyle\Project5\Debug\bombIT.exe
+  Project5.vcxproj -> C:\Users\Admin\Downloads\ofekStyle\Project5\Debug\bombIT.pdb (Partial PDB)
